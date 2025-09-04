@@ -12,8 +12,12 @@ The OpenSCAD modules in this project are dependent on the use of the lib_robo fi
 		<img width="280" src="https://github.com/dnkorte/donkbot/blob/main/photos/n20_linefollower.jpg" alt="n20 linefollower motor plate">
 	</td>
 	<td>
-		<img width="280" src="https://github.com/dnkorte/donkbot/blob/main/photos/n20_mazebot_tester_with_pololum_tof.jpg" alt="motor plate for n20 mazebot with Pololu PWM distance sensors (ToF))">
+		<img width="280" src="https://github.com/dnkorte/donkbot/blob/main/photos/n20_mazebot_tester_with_pololum_ToF.jpg" alt="motor plate for n20 mazebot with Pololu PWM distance sensors (ToF))">
 	</td>
 </tr></table>
 
+## Photo Albums
+*[Photo build history and raw build samples)](https://photos.app.goo.gl/n3T1WMVK3Vmwz7cS7)
+*[Maze Fabrication)](https://photos.app.goo.gl/D5PgzwZijvFSpFg68)
+*[Line Following early run (clearly needs some PID tuning...)](https://photos.app.goo.gl/kagY9Lthc4os7Lgr5)
 
